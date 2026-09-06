@@ -47,3 +47,4 @@ A personal home lab running on a virtual machine with Ubuntu Server, hosted alon
 ## Disclaimer
 
 This project was built for learning and personal use. All services were used in a home environment and are not intended for production.
+the used pc in this projekt has got on fire cause of my messy circuits and wires LOL, and i really have no other pcs to amek a permanet server like that anymore. 
